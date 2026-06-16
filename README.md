@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Zytrix77/Zytrix77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student with a background in **BTS SIO (SISR)** , **Bachelor's Degree in General Computer Science** and **Mastère Infrastructures, Cloud & DevOps**
 
-Here are some ideas to get you started:
+💼 I completed my studies through a **work-study program (apprenticeship)**, which allowed me to gain hands-on experience in IT infrastructure, systems administration, networking, and software development while working in a professional environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 BTS SIO – SISR (Solutions d'Infrastructure, Systèmes et Réseaux)
+- 🎓 Bachelor's Degree in General Computer Science
+- 💼 Former apprentice with real-world IT experience
+- 💻 Passionate about technology, systems, networks, and software development
+- 🌱 Always learning and improving my technical skills
+
+## 🛠️ Interests
+- System Administration
+- Network Management
+- Cybersecurity
+- Cloud Technologies
+- Software Development
+- Automation & Scripting
+
+## 📫 Contact
+Feel free to explore my repositories and connect with me for collaboration or professional opportunities.
+
+Thanks for visiting my profile! 🚀
