@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm an IT student with a background in **BTS SIO (SISR)** , **Bachelor's Degree in General Computer Science** and **Mastère Infrastructures, Cloud & DevOps**
+I'm an IT student with a background in **BTS SIO (SISR)** , **Bachelor's Degree in General Computer Science** and now **Mastère Infrastructures, Cloud & DevOps**
 
 💼 I completed my studies through a **work-study program (apprenticeship)**, which allowed me to gain hands-on experience in IT infrastructure, systems administration, networking, and software development while working in a professional environment.
 
